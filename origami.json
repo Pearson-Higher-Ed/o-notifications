@@ -1,8 +1,8 @@
 {
-    "description": "Notifications",
+    "description": "Component Blueprint",
     "origamiType": "module",
     "origamiVersion": 1,
-    "support": "https://github.com/Financial-Times/o-notification/issues",
+    "support": "https://github.com/Pearson-Higher-Ed/o-component-blueprint/issues",
     "supportStatus": "experimental",
     "demos": [
         {

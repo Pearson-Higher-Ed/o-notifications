@@ -1,5 +1,1 @@
-/*global require, module*/
-
-module.exports = {
-	foo: require('./src/js/foo')
-};
+export { default } from './src/js/Foo';

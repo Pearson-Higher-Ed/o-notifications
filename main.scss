@@ -6,6 +6,6 @@
 @import 'src/scss/variables';
 @import 'src/scss/mixins';
 
-@if not $o-notification-is-silent {
-	@include oNotificationHello(world of Origami);
+@if not $o-component-blueprint-is-silent {
+	@include oComponentBlueprintHello(world of Origami);
 }

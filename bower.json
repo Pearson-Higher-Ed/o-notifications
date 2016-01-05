@@ -1,5 +1,5 @@
 {
-  "name": "o-notification",
+  "name": "o-component-blueprint",
   "dependencies": {},
   "main": [
     "main.scss",
@@ -9,5 +9,6 @@
     "examples",
     "test",
     ".gitignore"
-  ]
+  ],
+  "license": "MIT"
 }

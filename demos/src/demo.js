@@ -1,6 +1,5 @@
-/*global require*/
-require('../../main');
+import '../../main';
 
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener('DOMContentLoaded', () => {
 	document.dispatchEvent(new CustomEvent('o.DOMContentLoaded'));
 });
