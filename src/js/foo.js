@@ -1,5 +1,5 @@
-"use strict";
+/*global module*/
 
 module.exports = function() {
-	return 'bar';
+	return "bar";
 };
