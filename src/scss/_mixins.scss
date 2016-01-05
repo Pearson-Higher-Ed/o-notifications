@@ -1,0 +1,13 @@
+////
+/// @group o-notification
+/// @link http://registry.origami.ft.com/components/o-notification
+////
+
+/// Hello world
+///
+/// @param {String} $who [world]
+@mixin oNotificationHello($who: world) {
+	.foo {
+		content: 'Hello, #{$who}!';
+	}
+}

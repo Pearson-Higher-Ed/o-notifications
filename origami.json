@@ -1,0 +1,14 @@
+{
+    "description": "Notifications",
+    "origamiType": "module",
+    "origamiVersion": 1,
+    "support": "https://github.com/Financial-Times/o-notification/issues",
+    "supportStatus": "experimental",
+    "demos": [
+        {
+            "path": "/demos/demo.html",
+            "expanded": true,
+            "description": ""
+        }
+    ]
+}
